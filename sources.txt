@@ -1,0 +1,4 @@
+[1] https://levelup.gitconnected.com/introduction-to-histogram-equalization-for-digital-image-enhancement-420696db9e43
+[2] https://linuxtut.com/en/c74d06aeb3aba75c0997/
+[3] https://stackoverflow.com/questions/67654262/laplacian-filter-on-python-does-not-work-as-i-expected
+[4] https://safwankdb.github.io/2020/03/14/harris-corner.html
